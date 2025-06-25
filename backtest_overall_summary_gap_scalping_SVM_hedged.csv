@@ -1,0 +1,2 @@
+total_days,total_pnl,average_daily_pnl,median_daily_pnl,std_daily_pnl,max_daily_pnl,min_daily_pnl,total_trades,average_trades_per_day,final_cumulative_pnl,profitable_days,losing_days,avg_gain,max_gain,avg_loss,max_loss
+101,1851897.799999981,18335.62178217803,11966.45000000416,122434.05958563849,310819.6799999947,-256308.35000000027,5947,58.881188118811885,1851897.799999981,58,43,99679.89448275833,310819.6799999947,-91384.56000000004,-256308.35000000027
